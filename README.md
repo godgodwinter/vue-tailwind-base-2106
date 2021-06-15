@@ -1,4 +1,7 @@
-# vue-passport-santrikoding
+# vue-tailwind-base-2106
+
+Vue 3, with login use Laravel 8 + Passport as Backend
+Some plugin is AOS JS, Quil Editor as Wysiwyg and Tailwind 2 as Style.
 
 ## Project setup
 ```
